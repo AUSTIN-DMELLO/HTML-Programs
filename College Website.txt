@@ -1,0 +1,62 @@
+<html>
+<head>
+<title>College Profile</title>
+</head>
+<body BGCOLOR="YELLOW">
+<img src="C:\Users\LENOVO\Downloads\PaceCollegeImage.JPG" height="300" width="1500" >
+<caption align="center"><font color="blue"><h1>PACE Junior Science College</h2></font></caption>
+<marque direction="right">
+<p>Seven years ago, IIT-ian's Pace introduced the unique concept of integrated learning for Competitive
+Exams, Board Exams through partnerships with the most reputed schools and colleges across Mumbai.</p>
+<p>In 2009, the Government of Maharashtra entrusted IIT-ians's Pace with the responsibility to manage two
+junior colleges in collaboration with the MCGM. these colleges offer integrated Competitive Exam
+preparation and Board preparation umder one roof.</p>
+<p>Today, the success of this concept has led to a revolution for competitive exams and boards. In a
+landmark ruling, <u>the Government of Maharashtra awarded IIT-ian's Pace</u> special permission to run 6
+Pace Junior Science colleges across Mumbai</p>
+<a href="courses.html">Courses</a><br>
+<a href="admissionprocess.html">Admission Process</a>
+</body>
+</html>
+
+<html>
+<head>
+<title>Admission</title>
+</head>
+<body bgcolor=”yellow”>
+<img src="C:\Users\LENOVO\Downloads\PaceCollegeImage.JPG" height="300" width="1500" >
+<caption align="center"><font color="Red"><h2>6 Pace Junior Science Colleges(Andheri, Borivali, Dadar, Nerul, Powai, Thane)</h2></font></caption>
+
+<p><b><u><h4>Eligibility Criteria:</h4></u></b>Direct admission to the students scoring 90% and above in
+PCM in X Boards or IX Final Exams. Aptitude test is compulsory for other students.</p>
+<p><b><u><h4>Admission Form:</h4></u></b>To be collected from the respective Pace Junior
+Colleges/Centers.</p>
+<p><b><u><h4>Documents Required:</h4></u></b></p>
+<ol type="A">
+<li> X Standard Marksheet(Original with attested copy)</li>
+<li> School leaving certificate </li>
+<li> 5 passport size photographs</li>
+</ol>
+<a href="courses.html">Courses</a><br>
+<a href="Home.html">Home<a>
+</body>
+</html>
+
+<html>
+<head>
+<title>Courses Offered</title>
+<head>
+<body bgcolor=”green”>
+<img src="C:\Users\LENOVO\Downloads\\PaceCollegeImage.JPG" height="300" width="1500" >
+<caption align="center"><font color="Red"><h2>Courses available at Pace Junior Science
+College</h2></font></caption>
+<ol type="I">
+<li> XI and XII IITJEE/AIEEE </li>
+<li> XI andXII MH-CET </li>
+<li> XI and XII</li>
+</ol>
+<p><b><i><u>Vocational subjects offered at Pace Junior Science College.</u></i></b></p>
+<a href="addmissionprocess.html">Admission</a><br>
+<a href="home.html">Home</a>
+</body>
+</html>
